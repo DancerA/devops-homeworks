@@ -5,6 +5,7 @@
 
 1. Файлы для проверки плагинов:
     - [netology.tf](netology.tf) – terraform,
+      ![Терраформ](img/terraform_efimkin.png)
     - [netology.sh](netology.sh) – bash,
     - [netology.md](netology.md) – markdown, 
     - [netology.yaml](netology.yaml) – yaml,
